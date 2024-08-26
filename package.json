@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "admin-lte": "3.2",
+    "husky": "^9.1.5",
+    "npm": "^10.8.2",
+    "react-router-dom": "^6.26.1"
+  }
+}
